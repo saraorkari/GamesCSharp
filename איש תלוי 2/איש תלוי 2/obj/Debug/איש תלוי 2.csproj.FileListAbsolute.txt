@@ -1,0 +1,19 @@
+G:\שרהלה\תשפא\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\obj\Debug\איש_תלוי_2.Properties.Resources.resources
+G:\שרהלה\תשפא\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\obj\Debug\איש תלוי 2.csproj.GenerateResource.cache
+G:\שרהלה\תשפא\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\obj\Debug\איש תלוי 2.csproj.CoreCompileInputs.cache
+G:\שרהלה\תשפא\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\obj\Debug\איש_תלוי_2.Form1.resources
+G:\שרהלה\תשפא\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\bin\Debug\איש תלוי.exe.config
+G:\שרהלה\תשפא\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\bin\Debug\איש תלוי.exe
+G:\שרהלה\תשפא\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\bin\Debug\איש תלוי.pdb
+G:\שרהלה\תשפא\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\obj\Debug\איש תלוי.exe
+G:\שרהלה\תשפא\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\obj\Debug\איש תלוי.pdb
+G:\שרהלה\תשפא\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\obj\Debug\איש תלוי 2.csprojAssemblyReference.cache
+C:\sara or\לימודים\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\bin\Debug\איש תלוי.exe.config
+C:\sara or\לימודים\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\bin\Debug\איש תלוי.exe
+C:\sara or\לימודים\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\bin\Debug\איש תלוי.pdb
+C:\sara or\לימודים\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\obj\Debug\איש תלוי 2.csprojAssemblyReference.cache
+C:\sara or\לימודים\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\obj\Debug\איש_תלוי_2.Form1.resources
+C:\sara or\לימודים\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\obj\Debug\איש_תלוי_2.Properties.Resources.resources
+C:\sara or\לימודים\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\obj\Debug\איש תלוי 2.csproj.GenerateResource.cache
+C:\sara or\לימודים\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\obj\Debug\איש תלוי.exe
+C:\sara or\לימודים\C# מתקדם\שיעור 6\איש תלוי 2\איש תלוי 2\obj\Debug\איש תלוי.pdb

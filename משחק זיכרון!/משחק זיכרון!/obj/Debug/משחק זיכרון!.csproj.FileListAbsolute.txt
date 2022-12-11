@@ -1,0 +1,29 @@
+C:\Users\רוזנטל\Documents\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\bin\Debug\משחק זיכרון!.exe.config
+C:\Users\רוזנטל\Documents\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\bin\Debug\משחק זיכרון!.exe
+C:\Users\רוזנטל\Documents\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\bin\Debug\משחק זיכרון!.pdb
+C:\Users\רוזנטל\Documents\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק זיכרון!.csprojAssemblyReference.cache
+C:\Users\רוזנטל\Documents\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק_זיכרון_.Form1.resources
+C:\Users\רוזנטל\Documents\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק_זיכרון_.Properties.Resources.resources
+C:\Users\רוזנטל\Documents\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק זיכרון!.csproj.GenerateResource.cache
+C:\Users\רוזנטל\Documents\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק זיכרון!.csproj.CoreCompileInputs.cache
+C:\Users\רוזנטל\Documents\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק זיכרון!.exe
+C:\Users\רוזנטל\Documents\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק זיכרון!.pdb
+E:\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\bin\Debug\משחק זיכרון!.exe.config
+E:\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\bin\Debug\משחק זיכרון!.exe
+E:\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\bin\Debug\משחק זיכרון!.pdb
+E:\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק זיכרון!.csprojAssemblyReference.cache
+E:\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק_זיכרון_.Form1.resources
+E:\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק_זיכרון_.Properties.Resources.resources
+E:\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק זיכרון!.csproj.GenerateResource.cache
+E:\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק זיכרון!.csproj.CoreCompileInputs.cache
+E:\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק זיכרון!.exe
+E:\שרהלה\אנגלית\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק זיכרון!.pdb
+C:\sara or\לימודים\C# מתקדם\משחק זיכרון!\משחק זיכרון!\bin\Debug\משחק זיכרון!.exe.config
+C:\sara or\לימודים\C# מתקדם\משחק זיכרון!\משחק זיכרון!\bin\Debug\משחק זיכרון!.exe
+C:\sara or\לימודים\C# מתקדם\משחק זיכרון!\משחק זיכרון!\bin\Debug\משחק זיכרון!.pdb
+C:\sara or\לימודים\C# מתקדם\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק זיכרון!.csprojAssemblyReference.cache
+C:\sara or\לימודים\C# מתקדם\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק_זיכרון_.Form1.resources
+C:\sara or\לימודים\C# מתקדם\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק_זיכרון_.Properties.Resources.resources
+C:\sara or\לימודים\C# מתקדם\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק זיכרון!.csproj.GenerateResource.cache
+C:\sara or\לימודים\C# מתקדם\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק זיכרון!.exe
+C:\sara or\לימודים\C# מתקדם\משחק זיכרון!\משחק זיכרון!\obj\Debug\משחק זיכרון!.pdb

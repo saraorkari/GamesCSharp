@@ -1,0 +1,13 @@
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\C#\Reversy\Reversy\Reversy\bin\Debug\Reversy.exe.config
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\C#\Reversy\Reversy\Reversy\bin\Debug\Reversy.exe
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\C#\Reversy\Reversy\Reversy\bin\Debug\Reversy.pdb
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\C#\Reversy\Reversy\Reversy\obj\Debug\Reversy.csprojAssemblyReference.cache
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\C#\Reversy\Reversy\Reversy\obj\Debug\Reversy.csproj.CoreCompileInputs.cache
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\C#\Reversy\Reversy\Reversy\obj\Debug\Reversy.exe
+U:\כיתה ה6 תשפ\שרה אור קרעי\שרה אור קרעי\C#\Reversy\Reversy\Reversy\obj\Debug\Reversy.pdb
+C:\sara or\לימודים\C#\Reversy\Reversy\Reversy\bin\Debug\Reversy.exe.config
+C:\sara or\לימודים\C#\Reversy\Reversy\Reversy\bin\Debug\Reversy.exe
+C:\sara or\לימודים\C#\Reversy\Reversy\Reversy\bin\Debug\Reversy.pdb
+C:\sara or\לימודים\C#\Reversy\Reversy\Reversy\obj\Debug\Reversy.csprojAssemblyReference.cache
+C:\sara or\לימודים\C#\Reversy\Reversy\Reversy\obj\Debug\Reversy.exe
+C:\sara or\לימודים\C#\Reversy\Reversy\Reversy\obj\Debug\Reversy.pdb
